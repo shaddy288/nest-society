@@ -1,0 +1,47 @@
+
+.accounting-head {
+  background-color: #f3f3f3;
+  height: calc(100vh - 64px);
+}
+.accounting-head h1 {
+  margin: 0 0 20px;
+  padding: 15px;
+  background: #fff;
+  font-size: 20px;
+  font-weight: 400;
+  color: #333;
+}
+main {
+  padding: 64px 0 0 !important;
+}
+.css-1k455el {
+  min-height: 0 !important;
+}
+.accounting-head .input {
+  width: 100%;
+}
+.accounting-head .submitbtn {
+  margin-top: 20px;
+}
+.accounting-head .accounting-card-head {
+   -webkit-box-shadow: 0px 9px 5px 0px rgba(206, 204, 206, 0.571);
+  -moz-box-shadow: 0px 9px 5px 0px rgba(222, 219, 222, 0.527);
+  box-shadow: 0px 9px 5px 0px rgba(222, 219, 222, 0.603);
+}
+.accounting-head .grid-system {
+  padding: 10px;
+}
+.accounting-head .left-card {
+  border-radius: 5px;
+  border-top: 5px solid #3c8dbc;
+}
+.accounting-head .form-group {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+.accounting-head .right-card {
+  border-radius: 5px;
+  border-top: 5px solid #f39c13;
+  height: 100vh;
+}
